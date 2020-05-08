@@ -5,8 +5,8 @@ We can use issue section, to raise all the open points, which will be picked and
 # NOTE: 
 We must follow the following guideline for tracking the points. 
 
-In case there is some issue with stockpile, you can use tag bug while raising issue. <br/>
-In case you want to report some missing feature, you can use tag feature request while raising issue. <br/>
-In case of other point to , you can use tag question while raising issue. 
+In case there is some issue with stockpile, you can use tag **bug** while raising issue. <br/>
+In case you want to report some missing feature, you can use tag **feature request** while raising issue. <br/>
+In case of other point to , you can use tag **question** while raising issue. 
 
 
